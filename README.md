@@ -1,24 +1,5 @@
-# README
+# contentful-lasting
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In order to do USER auth I would implement it with the Devise Gem. I would follow this tutorial https://medium.com/@greenboyroshan/creating-user-signin-and-signup-in-rails-6-using-gem-devise-part-i-334745e4cd9b
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For API auth I would follow this tutorial using JWT Tokens - https://medium.com/@billy.sf.cheng/a-rails-6-application-part-1-api-1ee5ccf7ed01
